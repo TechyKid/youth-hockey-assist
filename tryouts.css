@@ -2,6 +2,12 @@
     padding: 0;
     margin: 0;
   }
+  
+  body {
+    background: url("pond-hockey.jpg");
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+  }
 
     .topnav {
     background-color: rgb(6, 6, 179);
